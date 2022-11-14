@@ -6,12 +6,14 @@ The application create a deck of 52 cards suit and numbers. Two random numbers a
 
 
 ## Lesson Learned
-Casting
-Using abstract methods and classes
-Using random methods
-Extending classes
-Overriding abstract methods
+<ul>
+  <li>Using abstract methods and classes</li>
+  <li>Using random methods</li>
+  <li>Extending classes</li>
+  <li>Casting</li>
+  <li>Overriding abstract methods/li>
+</ul>
+
 
 ###Technologies Used
-Java, git,
-# BlackJackProject
+Java, git
